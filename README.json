@@ -448,7 +448,7 @@
                 "archived": false,
                 "id": 2126244,
                 "language": "MDX",
-                "last_commit": "2026-08-22T03:57:33Z",
+                "last_commit": "2026-08-24T15:37:23Z",
                 "owner": "twbs",
                 "repo": "bootstrap",
                 "stars": 174640
@@ -560,7 +560,7 @@
                 "archived": false,
                 "id": 84835535,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:38:39Z",
+                "last_commit": "2026-08-24T15:30:34Z",
                 "owner": "carbon-design-system",
                 "repo": "carbon",
                 "stars": 9384
@@ -1498,7 +1498,7 @@
                 "last_commit": "2026-08-24T03:24:29Z",
                 "owner": "naturalcrit",
                 "repo": "homebrewery",
-                "stars": 1336
+                "stars": 1337
               }
             },
             {
@@ -2444,7 +2444,7 @@
                 "archived": false,
                 "id": 222181584,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T15:24:05Z",
+                "last_commit": "2026-08-24T15:09:23Z",
                 "owner": "codedgar",
                 "repo": "Puppertino",
                 "stars": 1155
@@ -3090,7 +3090,7 @@
                 "last_commit": "2026-08-14T19:43:34Z",
                 "owner": "tailwindlabs",
                 "repo": "tailwindcss",
-                "stars": 97312
+                "stars": 97313
               }
             },
             {
@@ -3516,7 +3516,7 @@
                 "last_commit": "2023-10-07T20:59:18Z",
                 "owner": "rough-stuff",
                 "repo": "wired-elements",
-                "stars": 10828
+                "stars": 10829
               }
             },
             {
@@ -3618,7 +3618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:54.746Z",
+    "last_updated": "2026-08-24T15:40:17.509Z",
     "original_repository": "MarketingPipeline/Awesome-CSS-Resources",
     "original_repository_id": 501889844,
     "original_repository_sha": "61bfd5d175a8567e920ef6319af91634c1e5cd4d",

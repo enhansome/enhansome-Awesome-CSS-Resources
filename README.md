@@ -97,7 +97,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [bootstrap-button-designer:](https://github.com/wawrow/bootstrap-button-designer) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2018-02-02 simple js button designer for bootstrap.
 
-[bootstrap:](https://github.com/twbs/bootstrap) ⭐ 174,640 | 🐛 233 | 🌐 MDX | 📅 2026-08-22 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+[bootstrap:](https://github.com/twbs/bootstrap) ⭐ 174,640 | 🐛 233 | 🌐 MDX | 📅 2026-08-24 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 [bourbon:](https://github.com/thoughtbot/bourbon/) ⚠️ Archived A Lightweight Sass Tool Set.
 
@@ -113,7 +113,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [Caramel.CSS:](https://github.com/caramelcss/caramel) ⭐ 127 | 🐛 5 | 🌐 CSS | 📅 2017-07-22 A simple to use, easy to remember css framework.
 
-[carbon:](https://github.com/carbon-design-system/carbon) ⭐ 9,384 | 🐛 1,054 | 🌐 TypeScript | 📅 2026-08-24 A design system built by IBM.
+[carbon:](https://github.com/carbon-design-system/carbon) ⭐ 9,384 | 🐛 1,048 | 🌐 TypeScript | 📅 2026-08-24 A design system built by IBM.
 
 [CasCare.css:](https://github.com/rkjain119/CasCare) ⚠️ Archived is a light-weight and responsive open source CSS library.
 
@@ -243,7 +243,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [holo-web:](https://github.com/zmyaro/holo-web) ⭐ 133 | 🐛 6 | 🌐 CSS | 📅 2022-10-20  A CSS library that imitates the Android Holo themes.
 
-[Homebrewery:](https://github.com/naturalcrit/homebrewery/blob/master/phb.standalone.css) ⭐ 1,336 | 🐛 178 | 🌐 JavaScript | 📅 2026-08-24 A CSS stylesheet to create authentic looking D\&D homebrews.
+[Homebrewery:](https://github.com/naturalcrit/homebrewery/blob/master/phb.standalone.css) ⭐ 1,337 | 🐛 178 | 🌐 JavaScript | 📅 2026-08-24 A CSS stylesheet to create authentic looking D\&D homebrews.
 
 [Hover:](https://github.com/IanLunn/Hover) ⭐ 29,397 | 🐛 42 | 🌐 SCSS | 📅 2023-10-28 A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
@@ -379,7 +379,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [PSone.css:](https://github.com/micah5/PSone.css) ⭐ 777 | 🐛 3 | 🌐 CSS | 📅 2026-08-12 🎮 PS1 style CSS Framework, inspired by NES.css
 
-[Puppertino:](https://github.com/codedgar/Puppertino) ⭐ 1,155 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-19 A CSS framework based on Human Guidelines from apple.
+[Puppertino:](https://github.com/codedgar/Puppertino) ⭐ 1,155 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-24 A CSS framework based on Human Guidelines from apple.
 
 [pure:](https://github.com/pure-css/pure/) ⭐ 23,723 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 A set of small, responsive CSS modules that you can use in every web project.
 
@@ -471,7 +471,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [tacit:](https://github.com/yegor256/tacit) ⭐ 1,883 | 🐛 8 | 🌐 SCSS | 📅 2026-08-16 CSS framework for dummies, without a single CSS class.
 
-[tailwindcss:](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,312 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14 A utility-first CSS framework for rapid UI development.
+[tailwindcss:](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,313 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14 A utility-first CSS framework for rapid UI development.
 
 [tawian-frontend:](https://github.com/maxbeier/tawian-frontend) ⭐ 206 | 🐛 0 | 🌐 CSS | 📅 2018-01-23 A markdowny CSS framework.
 
@@ -531,7 +531,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [wing:](https://github.com/kbrsh/wing) ⭐ 1,996 | 🐛 11 | 🌐 CSS | 📅 2020-05-02 A beautiful CSS framework designed for minimalists.
 
-[wired-elements:](https://github.com/rough-stuff/wired-elements) ⭐ 10,828 | 🐛 36 | 🌐 TypeScript | 📅 2023-10-07 A collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
+[wired-elements:](https://github.com/rough-stuff/wired-elements) ⭐ 10,829 | 🐛 36 | 🌐 TypeScript | 📅 2023-10-07 A collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 
 [Wireframe:](https://github.com/agauniyal/wireframe) ⭐ 161 | 🐛 5 | 🌐 CSS | 📅 2020-10-02 A minimal wireframing css-framework. 🎈
 
