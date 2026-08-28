@@ -129,7 +129,7 @@
                 "last_commit": "2024-07-29T19:34:21Z",
                 "owner": "animate-css",
                 "repo": "animate.css",
-                "stars": 82753
+                "stars": 82752
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2024-05-28T17:36:03Z",
                 "owner": "propjockey",
                 "repo": "augmented-ui",
-                "stars": 1408
+                "stars": 1407
               }
             },
             {
@@ -316,7 +316,7 @@
                 "last_commit": "2026-08-04T19:40:11Z",
                 "owner": "beercss",
                 "repo": "beercss",
-                "stars": 2577
+                "stars": 2578
               }
             },
             {
@@ -358,10 +358,10 @@
                 "archived": false,
                 "id": 71939872,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T12:58:45Z",
+                "last_commit": "2026-08-27T21:31:28Z",
                 "owner": "palantir",
                 "repo": "blueprint",
-                "stars": 22013
+                "stars": 22016
               }
             },
             {
@@ -448,10 +448,10 @@
                 "archived": false,
                 "id": 2126244,
                 "language": "MDX",
-                "last_commit": "2026-08-25T19:48:08Z",
+                "last_commit": "2026-08-27T18:22:57Z",
                 "owner": "twbs",
                 "repo": "bootstrap",
-                "stars": 174661
+                "stars": 174664
               }
             },
             {
@@ -511,7 +511,7 @@
                 "last_commit": "2026-03-01T20:13:02Z",
                 "owner": "jgthms",
                 "repo": "bulma",
-                "stars": 50061
+                "stars": 50063
               }
             },
             {
@@ -560,10 +560,10 @@
                 "archived": false,
                 "id": 84835535,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:08:12Z",
+                "last_commit": "2026-08-27T20:08:34Z",
                 "owner": "carbon-design-system",
                 "repo": "carbon",
-                "stars": 9386
+                "stars": 9389
               }
             },
             {
@@ -788,7 +788,7 @@
                 "last_commit": "2026-08-03T08:22:27Z",
                 "owner": "addyosmani",
                 "repo": "critical",
-                "stars": 10265
+                "stars": 10266
               }
             },
             {
@@ -818,7 +818,7 @@
                 "last_commit": "2022-08-01T09:09:38Z",
                 "owner": "youneslaaroussi",
                 "repo": "ui-buttons",
-                "stars": 3821
+                "stars": 3822
               }
             },
             {
@@ -878,7 +878,7 @@
                 "last_commit": "2024-08-26T22:56:02Z",
                 "owner": "astrit",
                 "repo": "css.gg",
-                "stars": 10037
+                "stars": 10036
               }
             },
             {
@@ -1050,7 +1050,7 @@
                 "last_commit": "2026-08-24T06:25:46Z",
                 "owner": "saadeghi",
                 "repo": "daisyui",
-                "stars": 42212
+                "stars": 42218
               }
             },
             {
@@ -1092,7 +1092,7 @@
                 "archived": false,
                 "id": 210361222,
                 "language": "SCSS",
-                "last_commit": "2026-08-15T16:53:46Z",
+                "last_commit": "2026-08-27T22:30:32Z",
                 "owner": "yegor256",
                 "repo": "drops",
                 "stars": 11
@@ -1132,7 +1132,7 @@
                 "last_commit": "2019-03-01T16:28:55Z",
                 "owner": "h5bp",
                 "repo": "Effeckt.css",
-                "stars": 10811
+                "stars": 10810
               }
             },
             {
@@ -1274,7 +1274,7 @@
                 "last_commit": "2026-08-24T06:03:58Z",
                 "owner": "fomantic",
                 "repo": "Fomantic-UI",
-                "stars": 3764
+                "stars": 3763
               }
             },
             {
@@ -1289,7 +1289,7 @@
                 "last_commit": "2025-01-21T22:11:53Z",
                 "owner": "foundation",
                 "repo": "foundation-sites",
-                "stars": 29785
+                "stars": 29786
               }
             },
             {
@@ -1495,10 +1495,10 @@
                 "archived": false,
                 "id": 46161129,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T19:49:28Z",
+                "last_commit": "2026-08-27T22:10:10Z",
                 "owner": "naturalcrit",
                 "repo": "homebrewery",
-                "stars": 1337
+                "stars": 1338
               }
             },
             {
@@ -1528,7 +1528,7 @@
                 "last_commit": "2026-08-20T23:26:16Z",
                 "owner": "h5bp",
                 "repo": "html5-boilerplate",
-                "stars": 57603
+                "stars": 57606
               }
             }
           ],
@@ -1733,7 +1733,7 @@
                 "archived": false,
                 "id": 76359342,
                 "language": "CSS",
-                "last_commit": "2026-08-26T22:49:40Z",
+                "last_commit": "2026-08-27T18:42:43Z",
                 "owner": "qlik-oss",
                 "repo": "leonardo-ui",
                 "stars": 81
@@ -1878,7 +1878,7 @@
                 "last_commit": "2026-05-03T01:41:50Z",
                 "owner": "google",
                 "repo": "material-design-lite",
-                "stars": 32191
+                "stars": 32190
               }
             },
             {
@@ -2215,7 +2215,7 @@
                 "last_commit": "2024-06-12T20:36:06Z",
                 "owner": "necolas",
                 "repo": "normalize.css",
-                "stars": 53518
+                "stars": 53516
               }
             },
             {
@@ -2294,10 +2294,10 @@
                 "archived": false,
                 "id": 122507459,
                 "language": "SCSS",
-                "last_commit": "2026-08-26T18:07:31Z",
+                "last_commit": "2026-08-27T20:50:50Z",
                 "owner": "patternfly",
                 "repo": "patternfly",
-                "stars": 811
+                "stars": 812
               }
             },
             {
@@ -2342,7 +2342,7 @@
                 "last_commit": "2026-05-09T18:16:06Z",
                 "owner": "picocss",
                 "repo": "pico",
-                "stars": 16818
+                "stars": 16819
               }
             },
             {
@@ -2384,10 +2384,10 @@
                 "archived": false,
                 "id": 32551735,
                 "language": "SCSS",
-                "last_commit": "2026-08-27T05:35:40Z",
+                "last_commit": "2026-08-27T14:39:52Z",
                 "owner": "primer",
                 "repo": "css",
-                "stars": 13006
+                "stars": 13007
               }
             },
             {
@@ -2678,7 +2678,7 @@
                 "last_commit": "2024-11-27T21:01:48Z",
                 "owner": "Semantic-Org",
                 "repo": "Semantic-UI",
-                "stars": 51028
+                "stars": 51027
               }
             },
             {
@@ -2843,7 +2843,7 @@
                 "last_commit": "2025-10-28T23:34:52Z",
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20437
+                "stars": 20438
               }
             },
             {
@@ -3060,7 +3060,7 @@
                 "last_commit": "2026-07-20T15:11:15Z",
                 "owner": "tachyons-css",
                 "repo": "tachyons",
-                "stars": 11716
+                "stars": 11717
               }
             },
             {
@@ -3072,7 +3072,7 @@
                 "archived": false,
                 "id": 33565912,
                 "language": "SCSS",
-                "last_commit": "2026-08-26T19:40:08Z",
+                "last_commit": "2026-08-27T22:45:35Z",
                 "owner": "yegor256",
                 "repo": "tacit",
                 "stars": 1884
@@ -3090,7 +3090,7 @@
                 "last_commit": "2026-08-14T19:43:34Z",
                 "owner": "tailwindlabs",
                 "repo": "tailwindcss",
-                "stars": 97352
+                "stars": 97360
               }
             },
             {
@@ -3135,7 +3135,7 @@
                 "last_commit": "2026-02-12T07:26:09Z",
                 "owner": "Gioni06",
                 "repo": "terminal.css",
-                "stars": 1443
+                "stars": 1444
               }
             },
             {
@@ -3371,7 +3371,7 @@
                 "archived": false,
                 "id": 31207344,
                 "language": "HTML",
-                "last_commit": "2026-08-27T07:35:39Z",
+                "last_commit": "2026-08-27T12:13:07Z",
                 "owner": "canonical",
                 "repo": "vanilla-framework",
                 "stars": 981
@@ -3618,7 +3618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:28.333Z",
+    "last_updated": "2026-08-28T00:16:53.368Z",
     "original_repository_info": {
       "archived": false,
       "id": 501889844,
