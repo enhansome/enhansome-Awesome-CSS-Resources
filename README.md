@@ -47,7 +47,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [Amaze UI:](https://github.com/amazeui/amazeui) ⭐ 26 | 🐛 1 | 🌐 HTML | 📅 2024-11-14 A mobile-first and modular front-end framework.
 
-[animate.css:](https://github.com/animate-css/animate.css) ⭐ 82,844 | 🐛 80 | 🌐 CSS | 📅 2024-07-29  A cross-browser library of CSS animations. As easy to use as an easy thing.
+[animate.css:](https://github.com/animate-css/animate.css) ⭐ 82,845 | 🐛 80 | 🌐 CSS | 📅 2024-07-29  A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 [Animista:](https://animista.net/) CSS animations on demand!
 
@@ -87,7 +87,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [blueprint:](https://github.com/palantir/blueprint) ⭐ 22,114 | 🐛 953 | 🌐 TypeScript | 📅 2026-10-02 A React-based UI toolkit for the web.
 
-[Bojler:](https://github.com/Slicejack/bojler) ⭐ 1,051 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06 Is a CSS framework for email's.
+[Bojler:](https://github.com/Slicejack/bojler) ⭐ 1,052 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06 Is a CSS framework for email's.
 
 [bonsai.css:](https://github.com/bonsaicss/bonsai.css) ⭐ 384 | 🐛 20 | 🌐 CSS | 📅 2023-03-04 A Utility Complete CSS Framework for less than 45kb (8kB Gzipped).
 
@@ -97,7 +97,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [bootstrap-button-designer:](https://github.com/wawrow/bootstrap-button-designer) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2018-02-02 simple js button designer for bootstrap.
 
-[bootstrap:](https://github.com/twbs/bootstrap) ⭐ 174,976 | 🐛 229 | 🌐 MDX | 📅 2026-10-01 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+[bootstrap:](https://github.com/twbs/bootstrap) ⭐ 174,984 | 🐛 229 | 🌐 MDX | 📅 2026-10-01 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 [bourbon:](https://github.com/thoughtbot/bourbon/) ⚠️ Archived A Lightweight Sass Tool Set.
 
@@ -105,7 +105,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [bttn.css:](https://github.com/ganapativs/bttn.css) ⭐ 2,051 | 🐛 9 | 🌐 CSS | 📅 2022-09-07 Awesome buttons for awesome projects!
 
-[bulma:](https://github.com/jgthms/bulma) ⭐ 50,056 | 🐛 527 | 🌐 CSS | 📅 2026-09-21 Modern CSS framework based on Flexbox.
+[bulma:](https://github.com/jgthms/bulma) ⭐ 50,055 | 🐛 527 | 🌐 CSS | 📅 2026-09-21 Modern CSS framework based on Flexbox.
 
 [butterCake:](https://github.com/himasrafeek/butterCake) ⭐ 194 | 🐛 0 | 🌐 SCSS | 📅 2022-02-27 Material Design Components, Responsive and Modern CSS Framework Built with Flexbox 🍰
 
@@ -113,7 +113,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [Caramel.CSS:](https://github.com/caramelcss/caramel) ⭐ 128 | 🐛 5 | 🌐 CSS | 📅 2017-07-22 A simple to use, easy to remember css framework.
 
-[carbon:](https://github.com/carbon-design-system/carbon) ⭐ 9,514 | 🐛 1,077 | 🌐 JavaScript | 📅 2026-10-02 A design system built by IBM.
+[carbon:](https://github.com/carbon-design-system/carbon) ⭐ 9,513 | 🐛 1,079 | 🌐 JavaScript | 📅 2026-10-02 A design system built by IBM.
 
 [CasCare.css:](https://github.com/rkjain119/CasCare) ⚠️ Archived is a light-weight and responsive open source CSS library.
 
@@ -121,7 +121,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [Centurion:](https://github.com/justinhough/Centurion) ⭐ 324 | 🐛 12 | 🌐 SCSS | 📅 2023-01-23 Is a web-based framework for rapid prototyping and building larger web projects.
 
-[Charts.css:](https://github.com/ChartsCSS/charts.css) ⭐ 6,583 | 🐛 36 | 🌐 HTML | 📅 2026-04-04 Open source CSS framework for data visualization.
+[Charts.css:](https://github.com/ChartsCSS/charts.css) ⭐ 6,582 | 🐛 36 | 🌐 HTML | 📅 2026-04-04 Open source CSS framework for data visualization.
 
 [checkbox.css:](https://github.com/720kb/checkbox.css) ⭐ 472 | 🐛 2 | 🌐 JavaScript | 📅 2017-11-10 Tiny set of pure CSS animations for your checkbox input.
 
@@ -131,7 +131,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [Cirrus:](https://github.com/Spiderpig86/Cirrus) ⭐ 1,430 | 🐛 28 | 🌐 SCSS | 📅 2026-10-02 The SCSS framework for the modern web.
 
-[classic.css:](https://github.com/npjg/classic.css) ⭐ 240 | 🐛 1 | 🌐 CSS | 📅 2024-04-05 Generate a Classic Mac interface in your browser.
+[classic.css:](https://github.com/npjg/classic.css) ⭐ 236 | 🐛 1 | 🌐 CSS | 📅 2024-04-05 Generate a Classic Mac interface in your browser.
 
 [clean-switch:](https://github.com/miladd3/clean-switch) ⚠️ Archived Material Inspired Pure CSS toggle switch.
 
@@ -147,7 +147,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [Concise.css:](https://github.com/ConciseCSS/concise.css) ⭐ 928 | 🐛 8 | 🌐 JavaScript | 📅 2023-04-15 A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.
 
-[css-buttons:](https://github.com/eludadev/css-buttons) ⭐ 3,845 | 🐛 8 | 🌐 CSS | 📅 2022-08-01 100 Modern CSS Buttons, Free And Royalty Free.
+[css-buttons:](https://github.com/eludadev/css-buttons) ⭐ 3,846 | 🐛 8 | 🌐 CSS | 📅 2022-08-01 100 Modern CSS Buttons, Free And Royalty Free.
 
 [css-spinners:](https://github.com/varunsridharan/css-spinners) ⭐ 4 | 🐛 0 | 🌐 HTML | 📅 2020-09-27 Collections of CSS Loading Indicators / Spinners.
 
@@ -157,7 +157,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [css.gg:](https://github.com/astrit/css.gg) ⭐ 10,049 | 🐛 45 | 🌐 JavaScript | 📅 2024-08-26 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API.
 
-[CSSgram:](https://github.com/una/CSSgram) ⭐ 5,391 | 🐛 55 | 🌐 HTML | 📅 2021-08-01 CSS library for Instagram filters.
+[CSSgram:](https://github.com/una/CSSgram) ⭐ 5,387 | 🐛 55 | 🌐 HTML | 📅 2021-08-01 CSS library for Instagram filters.
 
 [cssbuttonhovereffects:](https://github.com/dynamicdriverepo/cssbuttonhovereffects) ⭐ 8 | 🐛 0 | 🌐 CSS | 📅 2017-12-01 Eye Catching CSS button hover effects using pseudo elements.
 
@@ -179,7 +179,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 ### D
 
-[daisyui:](https://github.com/saadeghi/daisyui) ⭐ 42,525 | 🐛 46 | 🌐 JavaScript | 📅 2026-09-30 The most popular, free and open-source Tailwind CSS component library.
+[daisyui:](https://github.com/saadeghi/daisyui) ⭐ 42,527 | 🐛 46 | 🌐 JavaScript | 📅 2026-09-30 The most popular, free and open-source Tailwind CSS component library.
 
 [DoodleCSS:](https://github.com/chr15m/DoodleCSS) ⭐ 1,206 | 🐛 1 | 🌐 HTML | 📅 2026-04-27 A simple hand drawn HTML/CSS theme.
 
@@ -231,7 +231,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [hack:](https://github.com/egoist/hack) ⚠️ Archived ⛷ Dead simple CSS framework.
 
-[Halfmoon:](https://github.com/halfmoonui/halfmoon/) ⭐ 3,114 | 🐛 65 | 🌐 CSS | 📅 2024-12-16 Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
+[Halfmoon:](https://github.com/halfmoonui/halfmoon/) ⭐ 3,111 | 🐛 65 | 🌐 CSS | 📅 2024-12-16 Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 
 [hamburgers:](https://github.com/jonsuh/hamburgers) ⭐ 7,083 | 🐛 34 | 🌐 SCSS | 📅 2023-05-24 Tasty CSS-animated Hamburgers.
 
@@ -243,11 +243,11 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [holo-web:](https://github.com/zmyaro/holo-web) ⭐ 134 | 🐛 6 | 🌐 CSS | 📅 2022-10-20  A CSS library that imitates the Android Holo themes.
 
-[Homebrewery:](https://github.com/naturalcrit/homebrewery/blob/master/phb.standalone.css) ⭐ 1,350 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-02 A CSS stylesheet to create authentic looking D\&D homebrews.
+[Homebrewery:](https://github.com/naturalcrit/homebrewery/blob/master/phb.standalone.css) ⭐ 1,350 | 🐛 161 | 🌐 JavaScript | 📅 2026-10-02 A CSS stylesheet to create authentic looking D\&D homebrews.
 
 [Hover:](https://github.com/IanLunn/Hover) ⭐ 29,404 | 🐛 42 | 🌐 SCSS | 📅 2023-10-28 A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
-[html5-boilerplate:](https://github.com/h5bp/html5-boilerplate) ⭐ 57,643 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-02 A professional front-end template for building fast, robust, and adaptable web apps or sites.
+[html5-boilerplate:](https://github.com/h5bp/html5-boilerplate) ⭐ 57,644 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-02 A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 ### I
 
@@ -255,7 +255,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [imagehover.css:](https://github.com/ciar4n/imagehover.css) ⭐ 1,817 | 🐛 7 | 🌐 HTML | 📅 2022-07-04 Pure CSS Image Hover Effect Library.
 
-[instagram.css:](https://github.com/picturepan2/instagram.css) ⭐ 4,008 | 🐛 21 | 🌐 CSS | 📅 2023-01-15 Instagram.css - Complete set of Instagram filters in pure CSS.
+[instagram.css:](https://github.com/picturepan2/instagram.css) ⭐ 4,007 | 🐛 21 | 🌐 CSS | 📅 2023-01-15 Instagram.css - Complete set of Instagram filters in pure CSS.
 
 [InterfaCSS:](https://github.com/tolo/InterfaCSS) ⭐ 96 | 🐛 5 | 🌐 Objective-C | 📅 2022-04-06 The CSS-inspired styling and layout framework for iOS.
 
@@ -279,7 +279,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [laptop.css:](https://github.com/jjkaufman/laptop.css) ⭐ 114 | 🐛 0 | 🌐 HTML | 📅 2019-09-13 laptop CSS for the modern world.
 
-[leonardo-ui:](https://github.com/qlik-oss/leonardo-ui) ⭐ 81 | 🐛 23 | 🌐 CSS | 📅 2026-09-30  Web UI component library with the Qlik Sense look and feel.
+[leonardo-ui:](https://github.com/qlik-oss/leonardo-ui) ⭐ 81 | 🐛 23 | 🌐 CSS | 📅 2026-10-02  Web UI component library with the Qlik Sense look and feel.
 
 [lilcss:](https://github.com/ColinEspinas/lilcss) ⚠️ Archived 💡 Lightweight CSS framework for everyday use.
 
@@ -305,7 +305,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [math-css:](https://github.com/parsegon/math-css) ⭐ 138 | 🐛 1 | 🌐 CSS | 📅 2017-08-15 Easy way to represent math by a few lines of HTML via CSS.
 
-[mdb-ui-kit:](https://github.com/mdbootstrap/mdb-ui-kit) ⭐ 24,252 | 🐛 26 | 🌐 SCSS | 📅 2026-03-24 Bootstrap 5 & Material Design 2.0 UI KIT.
+[mdb-ui-kit:](https://github.com/mdbootstrap/mdb-ui-kit) ⭐ 24,251 | 🐛 26 | 🌐 SCSS | 📅 2026-03-24 Bootstrap 5 & Material Design 2.0 UI KIT.
 
 [Metro 4:](https://github.com/olton/Metro-UI-CSS) ⭐ 7,086 | 🐛 7 | 🌐 JavaScript | 📅 2026-02-01 Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities every day!
 
@@ -347,7 +347,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [neumorphia.css:](https://github.com/KennyOliver/neumorphia.css) ⭐ 20 | 🐛 2 | 🌐 CSS | 📅 2021-12-11 Modern & neumorphic web elements!
 
-[normalize.css:](https://github.com/necolas/normalize.css/) ⭐ 53,508 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 A modern alternative to CSS resets.
+[normalize.css:](https://github.com/necolas/normalize.css/) ⭐ 53,507 | 🐛 75 | 🌐 CSS | 📅 2024-06-12 A modern alternative to CSS resets.
 
 [numl:](https://github.com/numldesign/numl) ⭐ 340 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-01 Atomic UI Framework based on Web Components and Runtime CSS Generation for rapidly building interfaces that follow your Design System 🌈
 
@@ -359,13 +359,13 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [paper.css:](https://github.com/thesephist/paper.css) ⭐ 46 | 🐛 1 | 🌐 HTML | 📅 2024-09-27 Lightweight, modern CSS to add some flair to your web-things 📜
 
-[patternfly:](https://github.com/patternfly/patternfly) ⭐ 819 | 🐛 265 | 🌐 SCSS | 📅 2026-10-01 An open source design system built to drive consistency and unify teams.
+[patternfly:](https://github.com/patternfly/patternfly) ⭐ 819 | 🐛 263 | 🌐 SCSS | 📅 2026-10-02 An open source design system built to drive consistency and unify teams.
 
 [Phonon:](https://github.com/phonon-framework/phonon) ⭐ 421 | 🐛 102 | 🌐 CSS | 📅 2023-01-04 A responsive front-end framework with a focus on simplicity and flexibility.
 
 [picnic:](https://github.com/franciscop/picnic) ⭐ 3,879 | 🐛 16 | 🌐 CSS | 📅 2024-10-03 A beautiful CSS library to kickstart your projects.
 
-[pico:](https://github.com/picocss/pico) ⭐ 16,875 | 🐛 128 | 🌐 CSS | 📅 2026-05-09 Minimal CSS Framework for semantic HTML.
+[pico:](https://github.com/picocss/pico) ⭐ 16,876 | 🐛 128 | 🌐 CSS | 📅 2026-05-09 Minimal CSS Framework for semantic HTML.
 
 [preboot:](https://github.com/mdo/preboot) ⭐ 1,661 | 🐛 5 | 🌐 CSS | 📅 2016-01-20 A collection of LESS mixins and variables for writing better CSS.
 
@@ -379,7 +379,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [PSone.css:](https://github.com/micah5/PSone.css) ⭐ 790 | 🐛 6 | 🌐 CSS | 📅 2026-09-11 🎮 PS1 style CSS Framework, inspired by NES.css
 
-[Puppertino:](https://github.com/codedgar/Puppertino) ⭐ 1,157 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-02 A CSS framework based on Human Guidelines from apple.
+[Puppertino:](https://github.com/codedgar/Puppertino) ⭐ 1,156 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-02 A CSS framework based on Human Guidelines from apple.
 
 [pure:](https://github.com/pure-css/pure/) ⭐ 23,722 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-02 A set of small, responsive CSS modules that you can use in every web project.
 
@@ -407,7 +407,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 ### S
 
-[sakura:](https://github.com/oxalorg/sakura) ⭐ 4,383 | 🐛 19 | 🌐 HTML | 📅 2026-04-07 A minimal css framework/theme.
+[sakura:](https://github.com/oxalorg/sakura) ⭐ 4,384 | 🐛 19 | 🌐 HTML | 📅 2026-04-07 A minimal css framework/theme.
 
 [sanitize.css:](https://github.com/csstools/sanitize.css) ⭐ 5,309 | 🐛 22 | 🌐 CSS | 📅 2026-03-26 A best-practices CSS foundation.
 
@@ -415,7 +415,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [scss-to-css:](https://github.com/adamlui/scss-to-css) Recursively compile all SCSS files into minified CSS.
 
-[Semantic-UI:](https://github.com/semantic-org/semantic-ui) ⭐ 51,024 | 🐛 1,071 | 🌐 JavaScript | 📅 2024-11-27 a UI component framework based around useful principles from natural language.
+[Semantic-UI:](https://github.com/semantic-org/semantic-ui) ⭐ 51,025 | 🐛 1,071 | 🌐 JavaScript | 📅 2024-11-27 a UI component framework based around useful principles from natural language.
 
 [shorthand:](https://github.com/shorthandcss/shorthand) ⭐ 255 | 🐛 17 | 🌐 SCSS | 📅 2022-12-10 Utility based css framework built with SCSS.
 
@@ -425,7 +425,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [Silon:](https://github.com/SLaks/Silon) ⭐ 343 | 🐛 1 | 🌐 HTML | 📅 2020-11-10 Logic Gates and Adders in pure CSS.
 
-[simple.css:](https://github.com/kevquirk/simple.css) ⭐ 5,014 | 🐛 1 | 🌐 HTML | 📅 2026-07-19  Is a classless CSS template that allows you to make a good looking website really quickly.
+[simple.css:](https://github.com/kevquirk/simple.css) ⭐ 5,016 | 🐛 1 | 🌐 HTML | 📅 2026-07-19  Is a classless CSS template that allows you to make a good looking website really quickly.
 
 [simpsons-in-css:](https://github.com/pattle/simpsons-in-css) ⭐ 4,585 | 🐛 51 | 🌐 CSS | 📅 2021-03-11 Simpsons characters in CSS.
 
@@ -465,13 +465,13 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 ### T
 
-[Tabler:](https://github.com/tabler/tabler) ⭐ 41,804 | 🐛 57 | 🌐 Astro | 📅 2026-10-02 Free and open-source HTML Dashboard UI Kit built on Bootstrap.
+[Tabler:](https://github.com/tabler/tabler) ⭐ 41,806 | 🐛 57 | 🌐 Astro | 📅 2026-10-02 Free and open-source HTML Dashboard UI Kit built on Bootstrap.
 
 [tachyons:](https://github.com/tachyons-css/tachyons/) ⭐ 11,726 | 🐛 89 | 🌐 CSS | 📅 2026-07-20 Functional css for humans.
 
 [tacit:](https://github.com/yegor256/tacit) ⭐ 1,882 | 🐛 9 | 🌐 SCSS | 📅 2026-10-02 CSS framework for dummies, without a single CSS class.
 
-[tailwindcss:](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,751 | 🐛 91 | 🌐 TypeScript | 📅 2026-09-25 A utility-first CSS framework for rapid UI development.
+[tailwindcss:](https://github.com/tailwindlabs/tailwindcss) ⭐ 97,754 | 🐛 91 | 🌐 TypeScript | 📅 2026-09-25 A utility-first CSS framework for rapid UI development.
 
 [tawian-frontend:](https://github.com/maxbeier/tawian-frontend) ⭐ 206 | 🐛 0 | 🌐 CSS | 📅 2018-01-23 A markdowny CSS framework.
 
@@ -489,7 +489,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [tuesday:](https://github.com/ShakrMedia/tuesday) ⚠️ Archived A quirky CSS Animation Library.
 
-[TuiCss:](https://github.com/vinibiavatti1/TuiCss) ⭐ 1,972 | 🐛 4 | 🌐 SCSS | 📅 2026-06-19 A text-based user interface CSS library.
+[TuiCss:](https://github.com/vinibiavatti1/TuiCss) ⭐ 1,973 | 🐛 4 | 🌐 SCSS | 📅 2026-06-19 A text-based user interface CSS library.
 
 [turretcss:](https://github.com/turretcss/turretcss) ⭐ 797 | 🐛 15 | 🌐 CSS | 📅 2022-12-02 A framework for rapid development of responsive and accessible websites.
 
@@ -499,7 +499,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 ### U
 
-[uikit:](https://github.com/uikit/uikit) ⭐ 18,538 | 🐛 611 | 🌐 HTML | 📅 2026-10-02 A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+[uikit:](https://github.com/uikit/uikit) ⭐ 18,538 | 🐛 610 | 🌐 HTML | 📅 2026-10-02 A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
 [uiterminal:](https://github.com/omerimzali/uiterminal) ⭐ 126 | 🐛 0 | 🌐 CSS | 📅 2025-05-21 Terminal Style CSS Framework.
 
@@ -525,7 +525,7 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 [wallop:](https://github.com/peduarte/wallop) ⭐ 1,091 | 🐛 10 | 🌐 CSS | 📅 2020-04-21 A minimal JS library for showing & hiding things.
 
-[water.css:](https://github.com/kognise/water.css) ⭐ 8,651 | 🐛 90 | 🌐 CSS | 📅 2024-02-11 A drop-in collection of CSS styles to make simple websites just a little nicer.
+[water.css:](https://github.com/kognise/water.css) ⭐ 8,652 | 🐛 90 | 🌐 CSS | 📅 2024-02-11 A drop-in collection of CSS styles to make simple websites just a little nicer.
 
 [windows-95-ui-kit:](https://github.com/themesberg/windows-95-ui-kit) ⭐ 630 | 🐛 3 | 🌐 CSS | 📅 2023-01-09 💾 Windows 95 UI Kit made with Bootstrap 4 components.
 
@@ -549,12 +549,12 @@ The only list of CSS/SCSS frameworks & resources you will ever need.
 
 ## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-CSS-Resources)
 
-Do you want help improve this list? You can find the Contributing Guidelines [here](https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/.github/CONTRIBUTING.md) ⭐ 99 | 🐛 1 | 📅 2024-04-18. If your pull request is approved you will be added to the list of contributors of this awesome project!
+Do you want help improve this list? You can find the Contributing Guidelines [here](https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/.github/CONTRIBUTING.md). If your pull request is approved you will be added to the list of contributors of this awesome project!
 
 See also the list of
-[contributors](https://github.com/MarketingPipeline/Awesome-CSS-Resources/graphs/contributors) ⭐ 99 | 🐛 1 | 📅 2024-04-18 who
+[contributors](https://github.com/MarketingPipeline/Awesome-CSS-Resources/graphs/contributors) who
 participate in this project.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
