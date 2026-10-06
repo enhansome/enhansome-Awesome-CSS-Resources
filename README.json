@@ -48,7 +48,7 @@
                 "open_issues": 44,
                 "owner": "jdan",
                 "repo": "98.css",
-                "stars": 11518,
+                "stars": 11519,
                 "topics": [
                   "css",
                   "design-system",
@@ -223,7 +223,7 @@
                 "open_issues": 80,
                 "owner": "animate-css",
                 "repo": "animate.css",
-                "stars": 82852,
+                "stars": 82851,
                 "topics": [
                   "animation",
                   "css",
@@ -557,7 +557,7 @@
                 "open_issues": 30,
                 "owner": "beercss",
                 "repo": "beercss",
-                "stars": 2609,
+                "stars": 2610,
                 "topics": [
                   "css",
                   "design-system",
@@ -804,11 +804,11 @@
                 "id": 2126244,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-10-06T09:07:44Z",
-                "open_issues": 228,
+                "last_commit": "2026-10-06T19:55:29Z",
+                "open_issues": 222,
                 "owner": "twbs",
                 "repo": "bootstrap",
-                "stars": 174986,
+                "stars": 174987,
                 "topics": [
                   "bootstrap",
                   "css",
@@ -998,7 +998,7 @@
                 "open_issues": 5,
                 "owner": "caramelcss",
                 "repo": "caramel",
-                "stars": 128,
+                "stars": 127,
                 "topics": [
                   "caramel",
                   "css",
@@ -1019,13 +1019,13 @@
                 "description": "A design system built by IBM",
                 "homepage": "https://www.carbondesignsystem.com",
                 "id": 84835535,
-                "language": "JavaScript",
+                "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:26:10Z",
-                "open_issues": 1112,
+                "last_commit": "2026-10-06T19:59:20Z",
+                "open_issues": 1101,
                 "owner": "carbon-design-system",
                 "repo": "carbon",
-                "stars": 9522,
+                "stars": 9524,
                 "topics": [
                   "design-system",
                   "hacktoberfest",
@@ -1146,7 +1146,7 @@
                 "open_issues": 36,
                 "owner": "ChartsCSS",
                 "repo": "charts.css",
-                "stars": 6582,
+                "stars": 6583,
                 "topics": [
                   "chart",
                   "charts",
@@ -1635,7 +1635,7 @@
                 "open_issues": 45,
                 "owner": "astrit",
                 "repo": "css.gg",
-                "stars": 10050,
+                "stars": 10051,
                 "topics": [
                   "adobe-xd",
                   "api",
@@ -1967,10 +1967,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T02:05:20Z",
-                "open_issues": 52,
+                "open_issues": 51,
                 "owner": "saadeghi",
                 "repo": "daisyui",
-                "stars": 42547,
+                "stars": 42550,
                 "topics": [
                   "component",
                   "component-library",
@@ -2135,7 +2135,7 @@
                 "open_issues": 2966,
                 "owner": "ElemeFE",
                 "repo": "element",
-                "stars": 54033,
+                "stars": 54031,
                 "topics": [
                   "components",
                   "element-ui",
@@ -2301,7 +2301,7 @@
                 "open_issues": 62,
                 "owner": "kristoferjoseph",
                 "repo": "flexboxgrid",
-                "stars": 9296,
+                "stars": 9295,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:53:26.003Z"
@@ -2343,7 +2343,7 @@
                 "open_issues": 255,
                 "owner": "fomantic",
                 "repo": "Fomantic-UI",
-                "stars": 3766,
+                "stars": 3767,
                 "topics": [
                   "component-library",
                   "css",
@@ -2718,7 +2718,7 @@
                 "id": 46161129,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T03:23:29Z",
+                "last_commit": "2026-10-06T18:12:54Z",
                 "open_issues": 154,
                 "owner": "naturalcrit",
                 "repo": "homebrewery",
@@ -3021,7 +3021,7 @@
                 "open_issues": 12,
                 "owner": "mojotech",
                 "repo": "jeet",
-                "stars": 2955,
+                "stars": 2954,
                 "topics": [
                   "grid",
                   "sass",
@@ -3330,7 +3330,7 @@
                 "open_issues": 0,
                 "owner": "material-components",
                 "repo": "material-components-web",
-                "stars": 17045,
+                "stars": 17044,
                 "topics": [
                   "css",
                   "javascript",
@@ -3357,7 +3357,7 @@
                 "open_issues": 431,
                 "owner": "google",
                 "repo": "material-design-lite",
-                "stars": 32191,
+                "stars": 32190,
                 "topics": [
                   "material",
                   "material-components",
@@ -3482,7 +3482,7 @@
                 "open_issues": 2,
                 "owner": "webkul",
                 "repo": "micron",
-                "stars": 2311,
+                "stars": 2310,
                 "topics": [
                   "animation",
                   "css",
@@ -3839,7 +3839,7 @@
                 "open_issues": 0,
                 "owner": "andybrewer",
                 "repo": "mvp",
-                "stars": 5129,
+                "stars": 5128,
                 "topics": [
                   "classless",
                   "classless-css",
@@ -4091,7 +4091,7 @@
                 "open_issues": 38,
                 "owner": "papercss",
                 "repo": "papercss",
-                "stars": 4195,
+                "stars": 4194,
                 "topics": [
                   "css",
                   "html",
@@ -4139,11 +4139,11 @@
                 "id": 122507459,
                 "language": "SCSS",
                 "license": "MIT",
-                "last_commit": "2026-10-05T22:31:41Z",
+                "last_commit": "2026-10-06T18:56:25Z",
                 "open_issues": 268,
                 "owner": "patternfly",
                 "repo": "patternfly",
-                "stars": 819,
+                "stars": 820,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -4222,7 +4222,7 @@
                 "open_issues": 127,
                 "owner": "picocss",
                 "repo": "pico",
-                "stars": 16864,
+                "stars": 16861,
                 "topics": [
                   "css",
                   "css-framework",
@@ -4304,8 +4304,8 @@
                 "id": 32551735,
                 "language": "SCSS",
                 "license": "MIT",
-                "last_commit": "2026-10-06T05:35:22Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-06T16:04:21Z",
+                "open_issues": 11,
                 "owner": "primer",
                 "repo": "css",
                 "stars": 13028,
@@ -4426,8 +4426,8 @@
                 "id": 222181584,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-10-06T05:00:56Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-06T19:34:03Z",
+                "open_issues": 6,
                 "owner": "codedgar",
                 "repo": "Puppertino",
                 "stars": 1156,
@@ -4453,11 +4453,11 @@
                 "id": 9603240,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T12:54:57Z",
+                "last_commit": "2026-10-06T12:58:28Z",
                 "open_issues": 1,
                 "owner": "pure-css",
                 "repo": "pure",
-                "stars": 23721,
+                "stars": 23719,
                 "topics": [
                   "css",
                   "html",
@@ -4805,7 +4805,7 @@
                 "open_issues": 1071,
                 "owner": "Semantic-Org",
                 "repo": "Semantic-UI",
-                "stars": 51021,
+                "stars": 51018,
                 "topics": [
                   "button",
                   "css-framework",
@@ -4972,7 +4972,7 @@
                 "open_issues": 51,
                 "owner": "pattle",
                 "repo": "simpsons-in-css",
-                "stars": 4585,
+                "stars": 4584,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:53:26.003Z"
@@ -4993,7 +4993,7 @@
                 "open_issues": 137,
                 "owner": "dhg",
                 "repo": "Skeleton",
-                "stars": 19354,
+                "stars": 19352,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:53:26.003Z"
@@ -5114,7 +5114,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20451,
+                "stars": 20452,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -5163,7 +5163,7 @@
                 "open_issues": 7,
                 "owner": "susam",
                 "repo": "spcss",
-                "stars": 969,
+                "stars": 967,
                 "topics": [
                   "boilerplate",
                   "css",
@@ -5434,11 +5434,11 @@
                 "id": 119811010,
                 "language": "Astro",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:38:03Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-06T16:31:33Z",
+                "open_issues": 63,
                 "owner": "tabler",
                 "repo": "tabler",
-                "stars": 41821,
+                "stars": 41822,
                 "topics": [
                   "admin-dashboard",
                   "adminpanel",
@@ -5538,10 +5538,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-25T19:32:43Z",
-                "open_issues": 95,
+                "open_issues": 97,
                 "owner": "tailwindlabs",
                 "repo": "tailwindcss",
-                "stars": 97774,
+                "stars": 97784,
                 "topics": [
                   "css",
                   "css-framework",
@@ -5624,7 +5624,7 @@
                 "open_issues": 11,
                 "owner": "Gioni06",
                 "repo": "terminal.css",
-                "stars": 1453,
+                "stars": 1452,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:53:26.003Z"
@@ -5887,7 +5887,7 @@
                 "id": 11507163,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-05T12:28:39Z",
+                "last_commit": "2026-10-06T12:04:54Z",
                 "open_issues": 611,
                 "owner": "uikit",
                 "repo": "uikit",
@@ -6014,7 +6014,7 @@
                 "id": 31207344,
                 "language": "HTML",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-05T20:31:47Z",
+                "last_commit": "2026-10-06T10:51:11Z",
                 "open_issues": 259,
                 "owner": "canonical",
                 "repo": "vanilla-framework",
@@ -6431,7 +6431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:28:04.122Z",
+    "last_updated": "2026-10-06T20:01:26.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of CSS / SCSS frameworks & resources.",
