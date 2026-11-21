@@ -48,7 +48,7 @@
                 "open_issues": 44,
                 "owner": "jdan",
                 "repo": "98.css",
-                "stars": 11634,
+                "stars": 11635,
                 "topics": [
                   "css",
                   "design-system",
@@ -223,7 +223,7 @@
                 "open_issues": 95,
                 "owner": "animate-css",
                 "repo": "animate.css",
-                "stars": 83041,
+                "stars": 83048,
                 "topics": [
                   "animation",
                   "css",
@@ -647,7 +647,7 @@
                 "open_issues": 1005,
                 "owner": "palantir",
                 "repo": "blueprint",
-                "stars": 22222,
+                "stars": 22226,
                 "topics": [
                   "blueprint",
                   "components",
@@ -804,11 +804,11 @@
                 "id": 2126244,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T18:47:19Z",
-                "open_issues": 304,
+                "last_commit": "2026-11-21T01:17:12Z",
+                "open_issues": 276,
                 "owner": "twbs",
                 "repo": "bootstrap",
-                "stars": 175098,
+                "stars": 175106,
                 "topics": [
                   "bootstrap",
                   "css",
@@ -837,7 +837,7 @@
                 "open_issues": 0,
                 "owner": "thoughtbot",
                 "repo": "bourbon",
-                "stars": 8985,
+                "stars": 8984,
                 "topics": [
                   "bourbon",
                   "bourbon-family",
@@ -925,7 +925,7 @@
                 "open_issues": 532,
                 "owner": "jgthms",
                 "repo": "bulma",
-                "stars": 50034,
+                "stars": 50035,
                 "topics": [
                   "css",
                   "css-framework",
@@ -1021,8 +1021,8 @@
                 "id": 84835535,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T14:40:18Z",
-                "open_issues": 1191,
+                "last_commit": "2026-11-21T14:12:21Z",
+                "open_issues": 1202,
                 "owner": "carbon-design-system",
                 "repo": "carbon",
                 "stars": 9635,
@@ -1250,8 +1250,8 @@
                 "id": 77105582,
                 "language": "SCSS",
                 "license": "MIT",
-                "last_commit": "2026-11-16T04:27:56Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-21T07:24:31Z",
+                "open_issues": 28,
                 "owner": "Spiderpig86",
                 "repo": "Cirrus",
                 "stars": 1432,
@@ -1448,7 +1448,7 @@
                 "open_issues": 37,
                 "owner": "addyosmani",
                 "repo": "critical",
-                "stars": 10304,
+                "stars": 10305,
                 "topics": [
                   "critical-css",
                   "critical-path-css",
@@ -1504,7 +1504,7 @@
                 "open_issues": 8,
                 "owner": "youneslaaroussi",
                 "repo": "ui-buttons",
-                "stars": 3872,
+                "stars": 3873,
                 "topics": [
                   "angular",
                   "awesome",
@@ -1635,7 +1635,7 @@
                 "open_issues": 45,
                 "owner": "astrit",
                 "repo": "css.gg",
-                "stars": 10061,
+                "stars": 10063,
                 "topics": [
                   "adobe-xd",
                   "api",
@@ -1813,7 +1813,7 @@
                 "open_issues": 43,
                 "owner": "sdras",
                 "repo": "cssgridgenerator",
-                "stars": 5372,
+                "stars": 5371,
                 "topics": [
                   "css-grid",
                   "generated-code",
@@ -1970,7 +1970,7 @@
                 "open_issues": 57,
                 "owner": "saadeghi",
                 "repo": "daisyui",
-                "stars": 42916,
+                "stars": 42926,
                 "topics": [
                   "component",
                   "component-library",
@@ -2135,7 +2135,7 @@
                 "open_issues": 2973,
                 "owner": "ElemeFE",
                 "repo": "element",
-                "stars": 53970,
+                "stars": 53971,
                 "topics": [
                   "components",
                   "element-ui",
@@ -2301,7 +2301,7 @@
                 "open_issues": 62,
                 "owner": "kristoferjoseph",
                 "repo": "flexboxgrid",
-                "stars": 9291,
+                "stars": 9290,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:53:26.003Z"
@@ -2375,7 +2375,7 @@
                 "open_issues": 81,
                 "owner": "foundation",
                 "repo": "yeti",
-                "stars": 29820,
+                "stars": 29821,
                 "topics": [
                   "css",
                   "foundation",
@@ -2750,7 +2750,7 @@
                 "open_issues": 47,
                 "owner": "IanLunn",
                 "repo": "Hover",
-                "stars": 29415,
+                "stars": 29416,
                 "topics": [
                   "css",
                   "css-effects",
@@ -2915,7 +2915,7 @@
                 "open_issues": 14,
                 "owner": "inuitcss",
                 "repo": "inuitcss",
-                "stars": 1839,
+                "stars": 1838,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:53:26.003Z"
@@ -3214,7 +3214,7 @@
                 "open_issues": 0,
                 "owner": "luxonauta",
                 "repo": "luxacss",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "css",
                   "library",
@@ -3247,7 +3247,7 @@
                 "open_issues": 0,
                 "owner": "miniMAC",
                 "repo": "magic",
-                "stars": 8595,
+                "stars": 8596,
                 "topics": [
                   "animation",
                   "css",
@@ -3330,7 +3330,7 @@
                 "open_issues": 0,
                 "owner": "material-components",
                 "repo": "material-components-web",
-                "stars": 17022,
+                "stars": 17023,
                 "topics": [
                   "css",
                   "javascript",
@@ -3357,7 +3357,7 @@
                 "open_issues": 430,
                 "owner": "google",
                 "repo": "material-design-lite",
-                "stars": 32192,
+                "stars": 32193,
                 "topics": [
                   "material",
                   "material-components",
@@ -3405,7 +3405,7 @@
                 "open_issues": 26,
                 "owner": "mdbootstrap",
                 "repo": "mdb-ui-kit",
-                "stars": 24236,
+                "stars": 24237,
                 "topics": [
                   "bootstrap",
                   "bootstrap-material",
@@ -3539,7 +3539,7 @@
                 "open_issues": 127,
                 "owner": "milligram",
                 "repo": "milligram",
-                "stars": 10214,
+                "stars": 10215,
                 "topics": [
                   "amp",
                   "css",
@@ -3658,7 +3658,7 @@
                 "open_issues": 20,
                 "owner": "Andy-set-studio",
                 "repo": "modern-css-reset",
-                "stars": 2952,
+                "stars": 2951,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:53:26.003Z"
@@ -3679,7 +3679,7 @@
                 "open_issues": 28,
                 "owner": "sindresorhus",
                 "repo": "modern-normalize",
-                "stars": 7448,
+                "stars": 7449,
                 "topics": [
                   "css",
                   "css-library",
@@ -3813,7 +3813,7 @@
                 "open_issues": 9,
                 "owner": "kylelogue",
                 "repo": "mustard-ui",
-                "stars": 1016,
+                "stars": 1015,
                 "topics": [
                   "css",
                   "css-framework",
@@ -4140,7 +4140,7 @@
                 "language": "SCSS",
                 "license": "MIT",
                 "last_commit": "2026-11-20T19:20:16Z",
-                "open_issues": 279,
+                "open_issues": 282,
                 "owner": "patternfly",
                 "repo": "patternfly",
                 "stars": 825,
@@ -4222,7 +4222,7 @@
                 "open_issues": 124,
                 "owner": "picocss",
                 "repo": "pico",
-                "stars": 16812,
+                "stars": 16810,
                 "topics": [
                   "css",
                   "css-framework",
@@ -4256,7 +4256,7 @@
                 "open_issues": 5,
                 "owner": "mdo",
                 "repo": "preboot",
-                "stars": 1656,
+                "stars": 1655,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:53:26.003Z"
@@ -4308,7 +4308,7 @@
                 "open_issues": 8,
                 "owner": "primer",
                 "repo": "css",
-                "stars": 13058,
+                "stars": 13060,
                 "topics": [
                   "css",
                   "design-system",
@@ -4648,7 +4648,7 @@
                 "open_issues": 2,
                 "owner": "filipelinhares",
                 "repo": "ress",
-                "stars": 2083,
+                "stars": 2084,
                 "topics": [
                   "css",
                   "reset",
@@ -4805,7 +4805,7 @@
                 "open_issues": 1071,
                 "owner": "Semantic-Org",
                 "repo": "Semantic-UI",
-                "stars": 50992,
+                "stars": 50994,
                 "topics": [
                   "button",
                   "css-framework",
@@ -4947,7 +4947,7 @@
                 "open_issues": 1,
                 "owner": "kevquirk",
                 "repo": "simple.css",
-                "stars": 5031,
+                "stars": 5033,
                 "topics": [
                   "css",
                   "css3",
@@ -5114,7 +5114,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20461,
+                "stars": 20462,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -5403,7 +5403,7 @@
                 "open_issues": 10,
                 "owner": "sakofchit",
                 "repo": "system.css",
-                "stars": 3937,
+                "stars": 3938,
                 "topics": [
                   "classic-macos",
                   "css",
@@ -5434,11 +5434,11 @@
                 "id": 119811010,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T15:54:36Z",
-                "open_issues": 77,
+                "last_commit": "2026-11-21T17:14:36Z",
+                "open_issues": 72,
                 "owner": "tabler",
                 "repo": "tabler",
-                "stars": 42099,
+                "stars": 42110,
                 "topics": [
                   "admin-dashboard",
                   "adminpanel",
@@ -5507,8 +5507,8 @@
                 "id": 33565912,
                 "language": "SCSS",
                 "license": "MIT",
-                "last_commit": "2026-11-18T08:38:37Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-21T07:36:24Z",
+                "open_issues": 8,
                 "owner": "yegor256",
                 "repo": "tacit",
                 "stars": 1878,
@@ -5538,10 +5538,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-20T18:53:02Z",
-                "open_issues": 112,
+                "open_issues": 114,
                 "owner": "tailwindlabs",
                 "repo": "tailwindcss",
-                "stars": 98713,
+                "stars": 98728,
                 "topics": [
                   "css",
                   "css-framework",
@@ -5717,7 +5717,7 @@
                 "open_issues": 26,
                 "owner": "argyleink",
                 "repo": "transition.css",
-                "stars": 2018,
+                "stars": 2019,
                 "topics": [
                   "animations",
                   "clip-path",
@@ -5746,7 +5746,7 @@
                 "open_issues": 14,
                 "owner": "shakrmedia",
                 "repo": "tuesday",
-                "stars": 453,
+                "stars": 452,
                 "topics": [
                   "animation",
                   "animation-library",
@@ -6014,7 +6014,7 @@
                 "id": 31207344,
                 "language": "HTML",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-20T19:12:02Z",
+                "last_commit": "2026-11-21T03:27:29Z",
                 "open_issues": 273,
                 "owner": "canonical",
                 "repo": "vanilla-framework",
@@ -6363,7 +6363,7 @@
                 "open_issues": 24,
                 "owner": "botoxparty",
                 "repo": "XP.css",
-                "stars": 3156,
+                "stars": 3155,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:53:26.003Z"
@@ -6431,7 +6431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:08:51.058Z",
+    "last_updated": "2026-11-21T20:47:47.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of CSS / SCSS frameworks & resources.",
